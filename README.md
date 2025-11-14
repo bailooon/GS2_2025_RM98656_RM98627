@@ -2,6 +2,10 @@
 
 Este é um projeto de aplicativo Android simples, desenvolvido 100% com Kotlin e Jetpack Compose. O app demonstra um fluxo de múltiplas telas, navegação e lógica de UI, servindo como um exemplo prático de uma arquitetura moderna de UI para Android.
 
+## Integrantes
+Matheus Bailon - 98656
+Kaique Aleixo - 98627
+
 O fluxo do aplicativo consiste em:
 
  1. Uma Tela de Login que valida credenciais.
